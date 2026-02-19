@@ -25,7 +25,7 @@ It is recommended to use `micromamba` to create the environment.
 
 ```bash
 # Create and activate environment using micromamba
-micromamba env create -f conda.yaml
+micromamba env create -f dinov3_env.yaml
 micromamba activate argaze
 ```
 
