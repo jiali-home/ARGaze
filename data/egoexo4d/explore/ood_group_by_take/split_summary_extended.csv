@@ -1,0 +1,7 @@
+split,samples,unique_tasks,unique_sites,unique_participants
+TRAIN,23571,39,11,311
+TEST_IID,6734,36,11,170
+TEST_OOD_SITE,6734,7,1,38
+TEST_OOD_TASK,6724,1,6,54
+VAL,3367,31,11,105
+TEST_OOD_PARTICIPANT,656,4,1,1
